@@ -3,17 +3,17 @@ Fußgänger Ampel für Arduino Mega 2560
 
 Arduino IDE Version 1.8.19(Windows Store 1.8.57.0)
 ## Benötigtes Material:
-2x Led Rot, 2x Led Grün, 1x Led Gelb,1x Signal Led, Knopf. 
+2x Led rot, 2x Led grün, 1x Led gelb,1x Signal Led, Knopf. 
 
 ## Pins
-Pin Auto = Rot:       10
+Pin Auto = rot:       10
 
-Pin Auto = Gelb:      11
+Pin Auto = gelb:      11
 
-Pin Auto = Grün:      12
+Pin Auto = grün:      12
 
-Pin Fußgänger = Rot:  9
+Pin Fußgänger = rot:  9
 
-Pin Fußgänger = Grün: 8
+Pin Fußgänger = grün: 8
 
 Pin Fußgänger = Signal: 7
