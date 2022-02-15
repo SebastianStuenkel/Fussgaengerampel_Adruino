@@ -17,3 +17,9 @@ Pin Fußgänger = rot:  9
 Pin Fußgänger = grün: 8
 
 Pin Fußgänger = Signal: 7
+
+## Bibliothek importieren
+
+Datei herunterladen, in Libraries Ordner verschieben und dann in der IDE:
+
+Sketch → Bibliotheken einbinden → Arduino Liquid Crystal IC2
